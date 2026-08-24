@@ -120,4 +120,4 @@ Machine Learning Group – ULB. (2018). *Credit card fraud detection* [Data set]
 
 ---
 
-**Autor:** [Tu nombre] · [LinkedIn] · Universidad de La Sabana, Facultad de Ingeniería
+**Autor:** Diego Duran · Universidad de La Sabana, Facultad de Ingeniería
